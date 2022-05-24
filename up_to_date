@@ -1,4 +1,3 @@
-ls
 git status
 git add up_to_date 
 git status
